@@ -1,1 +1,3 @@
-[build]\n  command = "npm run build"\n  publish = "dist"\n
+[build]
+  command = "npm run build"
+  publish = "dist"
