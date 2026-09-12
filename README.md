@@ -1,0 +1,1 @@
+# Filmy Guess\n500-title Bollywood guessing game.\n\nNetlify build command: `npm run build`\nPublish directory: `dist`\n
